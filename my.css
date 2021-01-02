@@ -1,0 +1,7 @@
+.box {
+  text-transform: uppercase;
+  font-size: 5em;
+  border: 3px solid black;
+  padding: 0.125em 0.25em;
+  width: min-content;
+}
