@@ -27,7 +27,7 @@ let person = {
 };
 
 //Dot Notation
-person.name = 'josh';
+//person.name = 'josh';
 
 /*//bracket notation
 let selection = 'name';
