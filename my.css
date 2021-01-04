@@ -5,3 +5,10 @@
   padding: 0.125em 0.25em;
   width: min-content;
 }
+
+.button1 {
+  block-size: 3em;
+  color: rgb(0, 0, 0);
+  border-radius: 10px;
+  border-style: solid;
+}
